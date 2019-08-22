@@ -1,0 +1,17 @@
+# Build Dependencies
+/node_modules
+
+# Built/compiled files
+# Grunt build to create these files
+/assets/css
+/assets/js
+/assets/fonts
+/assets/img
+.sass-cache/
+/zip
+
+# Ignore these while developing
+*.docx
+
+# Merge conflict files
+*.orig
